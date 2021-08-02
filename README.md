@@ -8,5 +8,5 @@
  
  4)Logistic Regression
 
-You can RTeach me On my Website: ChristianSajere.com
+You can Reach me On my Website: https://christiansajere.com/
 
